@@ -1,0 +1,21 @@
+<!DOCTYPE html >
+<html>
+<head>
+<title> About the Electronic gadgets </title>
+</head>
+<body style="background-color:black;">
+<h1 style="color:white;"> This is about the elctronic gadgets that we are using in our day to day life </h1>
+<h2 style="color:white;"> Below given image is created using image mapping so you can click the image to know more about the laptops and mobile   </p>
+<img src ="file:///C:/Users/91934/Pictures/project2/workplace.jpg" alt="work place " usemap="#workmap" width="400" height="379" />
+<map name="workmap">
+<area shape="rect" coords="34,44,270,350" alt="computer" href="computer.html" target=_"blank">
+<area shape="rect" coords="290,172,333,250" alt="Circle" href="Mobile.html" target=_"blank">
+</map>
+<h3 style="color:white;">Most of the computer's internal hardware is fitted inside the lower lid enclosure under the keyboard, although many laptops have a built-in <a href="https://en.wikipedia.org/wiki/Webcam"> webcam </a> at the top of the screen and some modern ones even feature a touch-screen <a href="https://smallbusiness.chron.com/laptop-display-types-68687.html">display</a>
+<h4 style="color:white;">These laptops are coming with the <a href="https://www.howtogeek.com/781784/what-is-integrated-graphics/">integrated graphic card </a>  and  <a href="https://www.electronicshub.org/integrated-vs-dedicated-graphic-card/">dedicated graphic card </a> 
+<h5 style="color:white;">And the integrated graphic cards are <a href="https://www.intel.in/content/www/in/en/architecture-and-technology/visual-technology/graphics-overview.html#:~:text=Intel®%20Iris®%20Xe%20MAX%20Graphics,unit%20(GPU)%20for%20PCs">intel iris xe </a></h5>
+<h6 style="color:white;">The dedicated graphic cards are <a href="https://www.nvidia.com/en-in/geforce/graphics-cards/">nvidia graphic cards </a></h6>
+<a draggable=true href="about.html"> About me </a>
+</body>
+</html>
+

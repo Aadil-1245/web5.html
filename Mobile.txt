@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> PHONE </title>
+</head>
+<body>
+<h1> This web page is all about the phone </h1>
+<p> In day to day life the usage of phone has increased a lot that we are much dependent on it </p>
+<p> There are many models that are available in the market today </P>
+<p> And we have to be careful while selecting the model and the processor of the phone </p>
+<p> Now let us see about the processor that are available in the phone </p>
+<h2> The processor that are available in the market are </h2>
+<ol>
+ <li> Snapdragon </li>
+ <li> Mediatek </li>
+ <li> exynos by samsung <li>
+</ol>
+<img src="snapdragon.jpg" alt=" Snapdragon " width="500" height="500"/><br>
+<img src="mediatek.jpg" alt="Mediatek " width="500" height="500"/> <br>
+<img src="exynos.jpg" alt="exynos" width="500" height="500" /> <br>
+</body>
+</html>

@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> ABOUT ME </title>
+</head>
+<body>
+<h1 style=color:white;"> hello, My name S.Aadil and i am curretly pursuing my Btech computer science and engineering degree from SRM university </h1>
